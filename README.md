@@ -1,1 +1,1 @@
-# Dependency inversion with inheritance realization in Angular with use TypeScript.
+# Dependency inversion with inheritance. Realization in Angular with use TypeScript.
